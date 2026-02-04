@@ -20,5 +20,6 @@ Cleaning and Visualization: Power BI
 
 It is free. It can be used in any purposes and fields as wished. 
 
-Thank you for your time
+Thank you for your time. 
+
 Khayal Hajiyev
